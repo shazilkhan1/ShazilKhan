@@ -11,7 +11,7 @@ Projects at Cal Poly Pomona:
 ~Operating Systems (CIS 2070)
 1. Windows Server LAB
 
-~Javascript (CIS 2900)~
+~Javascript (CIS 2900)
 
 ~Information Security (CIS 4670)
 1. Try Hack Me LAB
@@ -21,3 +21,4 @@ Projects at Cal Poly Pomona:
 
 Practical Home Lab Projects:
 -----------------------------------------------
+Malware analysis project 
