@@ -1,4 +1,4 @@
-# Hi, Shazil Khan!
+# Shazil Khan
 
 Projects at Cal Poly Pomona:
 ----------------------------------------------
