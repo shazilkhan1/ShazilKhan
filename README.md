@@ -21,9 +21,4 @@ Projects at Cal Poly Pomona:
 
 Practical Home Lab Projects:
 -----------------------------------------------
-Malware Analysis Project 
-SIEM using Azure/Wireshark
-Identifing Vulnerabilities using Metasploitable
-Honeypot Deployment
-Vulnerability Scanner using Nmap
-Capture the Flag (CTF) using a Virtual Machine
+Malware Analysis Project, SIEM using Azure/Wireshark, Identifing Vulnerabilities using Metasploitable, Honeypot Deployment, Vulnerability Scanner using Nmap, Capture the Flag (CTF) using a Virtual Machine
