@@ -9,17 +9,14 @@ Projects at Cal Poly Pomona:
 4. Supervised machine learning
 
 ~Python (CIS 2100)
-
 ~Operating Systems (CIS 2070)
-1. Windows Server LAB
-
+~Database Design and Development (CIS 3050)
+~Contemporary Operating Systems (CIS 2650)
+~Cloud Infrastructure (CIS 2670)
+~Bussiness Intellignce (CIS 3252)
 ~Javascript (CIS 2900)
-
 ~Information Security (CIS 4670)
-1. Try Hack Me LAB
-
 ~Network Security (CIS 4710)
-1. Hack The Box LAB
 
 Practical Home Lab Projects:
 -----------------------------------------------
