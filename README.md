@@ -9,13 +9,21 @@ Projects at Cal Poly Pomona:
 4. Supervised machine learning
 
 ~Python (CIS 2100)
+
 ~Operating Systems (CIS 2070)
+
 ~Database Design and Development (CIS 3050)
+
 ~Contemporary Operating Systems (CIS 2650)
+
 ~Cloud Infrastructure (CIS 2670)
+
 ~Bussiness Intellignce (CIS 3252)
+
 ~Javascript (CIS 2900)
+
 ~Information Security (CIS 4670)
+
 ~Network Security (CIS 4710)
 
 Practical Home Lab Projects:
