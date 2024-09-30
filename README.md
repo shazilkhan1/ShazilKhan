@@ -20,7 +20,7 @@ Projects at Cal Poly Pomona:
 
 ~Bussiness Intellignce (CIS 3252)
 
-~Javascript (CIS 2900)
+~Java (CIS 2900)
 
 ~Information Security (CIS 4670)
 
